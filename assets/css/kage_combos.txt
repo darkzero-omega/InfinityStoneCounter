@@ -1,0 +1,122 @@
+LP = Light Punch
+MP = Medium Punch
+HP = Hard Punch
+LK = Light Kick
+MK = Medium Kick
+HK = Hard Kick
+
+P = Any Punch
+K = Any Kick
+PP/KK = EX Version
+
+S. = Standing
+C. = Crouching
+F = Forward
+B = Back
+CC = Crush Counter
+CA = Critical Art
+(C) = Charge
+
+QCF = Quarter Circle Forward / Down, Down-Forward, Forward
+QCB = Quarter Circle Back / Down,Down-Back, Back
+HCB = Half Circle Back / Forward To Down To Back
+HCF = Half Circle Forward / Back To Down To Back
+DP = Dragon Punch Motion = Forward, Down, Down-Forward
+V = V-Trigger Cancel
+xx = Cancel
+/ = Means "Or"
++ = Same time
+~ = Right after the other
+
+*every combo marked with an asterisk can be cancelled into critical art
+
+HIT CONFIRMS
+c.lk, c.lp xx qcb lk, dp lp *
+s.lp, s.lk xx qcf p * (higher damage CA conversion)
+
+s.mp, s.lk xx qcb lk, dp lp *
+s.mp, s.lk xx qcf p * (higher damage CA conversion)
+s.mk, dp lp * (close)
+c.mp, s.hp xx qcb hk, dp hp *
+c.mp, s.hp xx hcf mk *
+c.mp, c.mp xx qcb mk, dp lp * (long range)
+
+c.hp, c.lp xx qcb lk, dp lp *
+c.hp xx hcf hk, c.mp xx qcb mk, dp lp *
+s.hk, dp lp * (close)
+
+JUMP IN
+j.hk, c.hp xx hcf hk, c.mp xx qcb mk, dp lp *
+j.mk, c.mp, s.hp xx qcb hk, dp hp*
+d.mk (air), c.lp xx qcb lk, dp lp *
+qcb k (air, crossup), c.lp xx qcb lk, dp lp *
+
+AIR TO AIR
+j.mp, qcb hk, dp hp *
+j.mp xx qcf p/qcb k
+
+COUNTER HIT
+s.lp CH, s.hp xx qcb hk, dp hp *
+s.lk CH, c.lp xx qcb lk, dp lp *
+
+s.mp CH, s.hp xx qcb hk, dp hp *
+c.mp CH, c.hp xx hcf hk, c.mp xx qcb mk, dp lp *
+
+s.mk CH, c.mp xx qcb mk, dp lp *
+c.mk CH, s.lk xx qcb lk, dp lp *
+
+c.hp CH, c.mp xx qcb mk, dp lp *
+
+f.mp CH, c.lp xx qcb lk, dp lp *
+
+CRUSH COUNTER
+s.hk CC, walk c.hp xx hcf hk, c.mp xx qcb mk, lp dp * (close)
+s.hk CC, dash, c.mp, s.hp xx qcb hk, dp hp *
+s.hk CC, dash, s.hp xx qcb hk, dp hp * (far)
+s.hk CC (air), qcb hk, dp hp *
+
+VS CC, hp dp *
+VS Hold CC, dash, c.hp xx hcf hk, c.mp xx qcb mk, lp dp *
+
+
+SPECIAL MOVES
+qcf p CH, s.lk xx qcb lk, dp lp *
+hcf lk/mk CH, s.lk xx qcb lk, dp lp *
+hcf hk, c.mp xx qcb mk, dp lp *
+hcf hk CH, s.hp xx qcb hk, dp hp *
+
+(instant air) qcb kk, qcb hk, dp hp
+(instant air) qcb kk, qcb hk, dp pp
+(instant air) qcb kk, (instant air) qcb kk, dp pp
+(instant air, crossup) qcb kk CH, c.lp xx qcb lk, dp lp
+
+
+EX COMBOS
+c.lk, c.lp xx qcb lk, dp pp
+s.mp/c.mp xx qcf pp, qcb hk, dp hp
+c.mp, s.hp xx qcf pp, qcb hk, dp hp
+c.mk xx qcb kk, dash dp hp
+
+j.mp xx qcb kk, qcb hk, dp hp
+j.mp xx qcf pp, dp hp
+s.hk CC (air), j.mp xx qcb kk, dp hp
+
+CORNER
+VS Hold, dp hp *
+(air) qcb k, dp hp *
+
+c.mp, s.hp xx hcb lp, dp hp *
+c.mp, s.hp xx hcb pp, dp hp
+c.mp, s.hp xx hcb pp, dp pp
+
+c.mp, s.hp xx qcf pp, hcb lp, dp hp
+c.mp, s.hp xx qcf pp, hcb pp, dp hp
+c.mp, s.hp xx qcf pp, qcb kk, (instant air) qcf p, dp pp
+
+c.hp xx hcf hk, c.mp xx qcb kk, (instant air) qcf p, dp pp
+c.hp xx hcf hk, c.mp xx qcb kk, (instant air) qcf pp, (instant air) qcf p, dp pp
+
+j.mp xx qcf p, dp hp *
+
+f.hp CC, lp dp *
+f.hp-hk CC, hp dp *
